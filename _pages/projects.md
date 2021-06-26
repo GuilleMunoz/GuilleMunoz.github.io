@@ -15,7 +15,7 @@ TDA aims to extract information from noisy, incomplete or complex dataset using 
 The main class, AlphaComplex, is a simple implementation can be used to compute the persistence homology of a set of points.
 
 <div align="center">
-  <img src="/examples/TDA/animation.gif" width="400"/> <img src="https://github.com/GuilleMunoz/GuilleMunoz.github.io/blob/master/examples/TDA/persistent_homology.png" width="400"/>
+  <img src="/_pages/examples/TDA/animation.gif" width="400"/> <img src="https://github.com/GuilleMunoz/GuilleMunoz.github.io/blob/master/examples/TDA/persistent_homology.png" width="400"/>
 </div>
 
 ## Advanced Encryption Standard ([AES](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf))
