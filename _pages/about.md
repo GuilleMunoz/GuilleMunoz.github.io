@@ -4,7 +4,7 @@ title: "About"
 ---
 
 
-## About me
+## Who am I
 
 My name is Guillermo Muñoz Llopis, from a young age I was interested in the fields of mathematics and fisics.
 That's why I enrolled in a BSc in mathematics and computer science by the Technical University of Madrid (UPM) which I just finished with a CGPA of 80%.
