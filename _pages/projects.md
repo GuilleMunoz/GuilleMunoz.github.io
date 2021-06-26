@@ -24,7 +24,7 @@ AES algorithm is a symmetric key encryption block cipher capable of handling 128
 With performance in mind, the algorithm will be implemented using [cython](https://cython.org). 
 
 <figure align="center">
-  <img src="/_pages/examples/AES/diagram.png" width="400"/>
+  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" width="400"></a>
   <figcaption>AES flowchart</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ To solve the problem we've implemented an exact method that uses linear programm
 With performance in mind, algorithms will be implemented using **C** and later extended to **Python** for ease of use.
 
 <figure align="center">
-  <a href="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg"><img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" width="400"/>
+  <a href="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg"><img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" width="400"></a>
   <figcaption>Flowchart of the simulated annealing algorithm</figcaption>
 </figure>
 
@@ -57,8 +57,8 @@ We also include multiple selection methods (roulette, tournament, rank), mutatio
 To compare the performance, we define comparations methods.
 
 <figure align="center">
-  <img align="center" src="/_pages/examples/GA/ga.png" width="400" title="Genetic algorithm flowchart"/>
-  <figcaption>Flowchar of the genetic algorithm</figcaption>
+   <a href="/_pages/examples/GA/ga.png"><img align="center" src="/_pages/examples/GA/ga.png" width="400"></a>
+  <figcaption>Genetic algorithm flowchart</figcaption>
 </figure>
 
 ## First steps of a JavaScript compiler
