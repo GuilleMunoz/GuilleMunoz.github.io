@@ -25,8 +25,8 @@ With performance in mind, the algorithm will be implemented using [cython](https
 
 
 <figure>
-   <a href="/_pages/examples/AES/diagram.png" align="center"><img src="/_pages/examples/AES/diagram.png" style="width:60%"></a>
-  <figcaption>AES flowchart for 128 bits keys.</figcaption>
+   <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="width:60%"></a>
+  <figcaption>AES flowchart for 128 bits keys</figcaption>
 </figure>
 
 ## City Tasks Assigment
