@@ -1,6 +1,6 @@
 ---
-permalink: /portfolio/
-title: "Portfolio"
+permalink: /projects/
+title: "Projects"
 ---
 
 ## Topological Data Analysis ([TDA](https://en.wikipedia.org/wiki/Topological_data_analysis)) 
