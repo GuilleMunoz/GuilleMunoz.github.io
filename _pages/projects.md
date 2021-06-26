@@ -23,9 +23,9 @@ The main class, AlphaComplex, is a simple implementation can be used to compute 
 AES algorithm is a symmetric key encryption block cipher capable of handling 128 bits (16 bytes) blocks using keys of size 128, 192 or 256 bits. AES consists of multiple encryption rounds. On each, the cipher performs a series of mathematics transformations. 
 With performance in mind, the algorithm will be implemented using [cython](https://cython.org). 
 
-<figure style="text-align: center">
-  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="width:60%"></a>
-  <figcaption style="text-align: center">Something else longer and longer and longer</figcaption>
+<figure>
+  <a href="/_pages/examples/AES/diagram.png" align="center"><img src="/_pages/examples/AES/diagram.png" style="width:60%"></a>
+  <figcaption>Something else longer and longer and longer</figcaption>
 </figure>
 
 ## City Tasks Assigment
