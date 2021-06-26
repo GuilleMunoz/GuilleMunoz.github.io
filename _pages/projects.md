@@ -25,7 +25,7 @@ With performance in mind, the algorithm will be implemented using [cython](https
 
 <figure>
   <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="width:60%"></a>
-  <figcaption style="text-align: center">AES flowchart.</figcaption>
+  <figcaption style="text-align:center">AES flowchart</figcaption>
 </figure>
 
 ## City Tasks Assigment
