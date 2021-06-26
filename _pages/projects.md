@@ -57,8 +57,8 @@ We also include multiple selection methods (roulette, tournament, rank), mutatio
 To compare the performance, we define comparations methods.
 
 <figure align="center">
-   <a href="/_pages/examples/GA/ga.png"><img src="/_pages/examples/GA/ga.png" style="width:60%"></a>
-  <figcaption>Genetic algorithm flowchart.</figcaption>
+   <a href="/_pages/examples/GA/ga.png"><img src="/_pages/examples/GA/ga.png" style="width:60%" align="center"></a>
+  <figcaption>Genetic algorithm flowchart</figcaption>
 </figure>
 
 ## First steps of a JavaScript compiler
