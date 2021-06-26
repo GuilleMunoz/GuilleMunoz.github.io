@@ -72,7 +72,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GuilleMunoz"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fas fa-fw fa-linkedin-square"
       url: "https://github.com/GuilleMunoz"
 
 defaults:
