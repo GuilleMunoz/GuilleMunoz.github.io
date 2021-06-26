@@ -15,7 +15,7 @@ TDA aims to extract information from noisy, incomplete or complex dataset using 
 The main class, AlphaComplex, is a simple implementation can be used to compute the persistence homology of a set of points.
 
 <div align="center">
-  <img src="/_pages/examples/TDA/animation.gif" width="400"/> <img src="https://github.com/GuilleMunoz/GuilleMunoz.github.io/blob/master/examples/TDA/persistent_homology.png" width="400"/>
+  <img src="/_pages/examples/TDA/animation.gif" width="400"/> <img src="/_pages/examples/TDA/persistent_homology.png" width="400"/>
 </div>
 
 ## Advanced Encryption Standard ([AES](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf))
@@ -26,7 +26,7 @@ AES algorithm is a symmetric key encryption block cipher capable of handling 128
 With performance in mind, the algorithm will be implemented using [cython](https://cython.org). 
 
 <div align="center" title="AES flowchart">
-  <img src="https://github.com/GuilleMunoz/GuilleMunoz.github.io/blob/master/examples/AES/diagram.png" width="400"/>
+  <img src="/_pages/examples/AES/diagram.png" width="400"/>
 </div>
 
 ## City Tasks Assigment
@@ -38,7 +38,7 @@ To solve the problem we've implemented an exact method that uses linear programm
 With performance in mind, algorithms will be implemented using C and later extended to Python for ease of use.
 
 <div align="center">
-  <img src="https://github.com/GuilleMunoz/GuilleMunoz.github.io/blob/master/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" width="400"/>
+  <img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" width="400"/>
 </div>
 
 Aditionaly, because in real life the times and costs of doing each tasks are known with certain uncertainty (assumed to be normal), we implement a Monte Carlo simulation to analyse how the objetives vary. 
@@ -57,7 +57,7 @@ We also include multiple selection methods (roulette, tournament, rank), mutatio
 To compare the performance, we define comparations methods.
 
 <div align="center">
-  <img align="center" src="https://github.com/GuilleMunoz/GuilleMunoz.github.io/blob/master/examples/GA/ga.png" width="400" title="Genetic algorithm flowchart"/>
+  <img align="center" src="/_pages/examples/GA/ga.png" width="400" title="Genetic algorithm flowchart"/>
 </div>
 
 ## First steps of a JavaScript compiler
@@ -85,6 +85,6 @@ A* achieves better performance than Dijstra algorithm using an heuristic to guid
 For ease of use we implemented a GUI to execute the A* search. 
 
 <div align="center"> 
-  <img src="https://github.com/GuilleMunoz/GuilleMunoz.github.io/blob/master/examples/Tokyo/Interfaz.png" width="300"/> <img src="https://github.com/GuilleMunoz/GuilleMunoz.github.io/blob/master/examples/Tokyo/Interfaz2.png" width="300"/>
-  <img src="https://github.com/GuilleMunoz/GuilleMunoz.github.io/blob/master/examples/Tokyo/interfaz3.png" height="187"/>
+  <img src="/_pages/examples/Tokyo/Interfaz.png" width="300"/> <img src="/_pages/examples/Tokyo/Interfaz2.png" width="300"/>
+  <img src="/_pages/examples/Tokyo/interfaz3.png" height="187"/>
 </div>
