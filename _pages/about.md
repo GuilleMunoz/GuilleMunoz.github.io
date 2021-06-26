@@ -40,7 +40,7 @@ I have a strong background in filds like:
 #### Programming
 
 During the firsts two years of my bachelor degree all the programming courses where teached using __Java__. 
-At the end as we got more liberty I starded programming in __Python__ and has become one of my favorite programming language because of how idiomatic and simple it is.
+At the end, as we got more liberty, I starded programming in __Python__ and it has become one of my favorite programming language.
 I also enjoy programming in __C__ because of the unparalleled control of the hardware and performance that comes with the language.
 
 Additionaly I also have experiences using __MySQL__, __R__, __Haskell__, __Prolog__ and __assembly language__. 
