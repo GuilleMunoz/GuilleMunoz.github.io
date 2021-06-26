@@ -35,9 +35,10 @@ This projects consists on assigning some tasks to some teams during a campaign (
 To solve the problem we've implemented an exact method that uses linear programming techniques (such as branch and bound algorithm) in order to obtain the optimal solution, and, because this method has a hi complexity, we also implement the simulated annealing metaheuristic.
 With performance in mind, algorithms will be implemented using **C** and later extended to **Python** for ease of use.
 
-<div align="center">
-  <img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" width="400"/>
-</div>
+<figure align="center">
+  <a href="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg"><img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" width="400"/>
+  <figcaption>[Flowchart of the simulated annealing algorithm](https://www.researchgate.net/figure/A-flowchart-of-the-simulated-annealing-algorithm_fig1_329917885)</figcaption>
+</figure>
 
 Aditionaly, because in real life the times and costs of doing each tasks are known with certain uncertainty (assumed to be normal), we implement a Monte Carlo simulation to analyse how the objetives vary. 
 A similar simulation can be done to observe how different preferences on the objectives affect to the overall time and cost.
