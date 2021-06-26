@@ -1,10 +1,6 @@
 ---
-layout: page
 permalink: /projects/
 title: Projects
-tags: [projects]
-modified: 25-06-2021
-comments: false
 ---
 
 ## Topological Data Analysis ([TDA](https://en.wikipedia.org/wiki/Topological_data_analysis)) 
