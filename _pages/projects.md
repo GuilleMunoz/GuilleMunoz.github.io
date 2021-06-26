@@ -24,8 +24,8 @@ AES algorithm is a symmetric key encryption block cipher capable of handling 128
 With performance in mind, the algorithm will be implemented using [cython](https://cython.org). 
 
 <figure>
-  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="width:60%"></a>
-  <figcaption style="text-align:center">AES flowchart</figcaption>
+  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="width:60%" align="center"></a>
+  <figcaption>AES flowchart</figcaption>
 </figure>
 
 ## City Tasks Assigment
@@ -37,7 +37,7 @@ To solve the problem we've implemented an exact method that uses linear programm
 With performance in mind, algorithms will be implemented using **C** and later extended to **Python** for ease of use.
 
 <figure>
-  <a href="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg"><img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" style="width:60%"></a>
+  <a href="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg"><img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" style="width:60%" align="center"></a>
   <figcaption>Flowchart of the simulated annealing algorithm.</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ We also include multiple selection methods (roulette, tournament, rank), mutatio
 To compare the performance, we define comparations methods.
 
 <figure align="center">
-   <a href="/_pages/examples/GA/ga.png"><img align="center" src="/_pages/examples/GA/ga.png" style="width:60%"></a>
+   <a href="/_pages/examples/GA/ga.png"><img src="/_pages/examples/GA/ga.png" style="width:60%" align="center"></a>
   <figcaption>Genetic algorithm flowchart.</figcaption>
 </figure>
 
