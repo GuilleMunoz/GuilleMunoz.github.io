@@ -22,12 +22,10 @@ minimal_mistakes_skin: default
 
 # Build settings
 markdown: kramdown
-remote_theme: GuilleMunoz/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 timezone: Europe/Madrid
-url                      : https://GuilleMunoz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/about/" # the subpath of your site, e.g. "/blog"
 
 include:
   - _pages
