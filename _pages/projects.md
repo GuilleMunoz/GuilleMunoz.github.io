@@ -82,5 +82,5 @@ For ease of use we implemented a GUI to execute the A* search.
 
 <div align="center"> 
   <img src="/_pages/examples/Tokyo/Interfaz.png" width="300"/> <img src="/_pages/examples/Tokyo/Interfaz2.png" width="300"/>
-  <img src="/_pages/examples/Tokyo/interfaz3.png" width="300"/>
+  <img src="/_pages/examples/Tokyo/interfaz3.png" width="307"/>
 </div>
