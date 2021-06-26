@@ -24,9 +24,9 @@ AES algorithm is a symmetric key encryption block cipher capable of handling 128
 With performance in mind, the algorithm will be implemented using [cython](https://cython.org). 
 
 
-<figure>
+<figure class="align-center">
    <img src="/_pages/examples/AES/diagram.png" style="width: 60%;"/>
-  <figcaption>A</figcaption>
+  <figcaption>AES</figcaption>
 </figure>
 
 ## City Tasks Assigment
