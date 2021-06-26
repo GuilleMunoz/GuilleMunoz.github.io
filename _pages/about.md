@@ -16,7 +16,7 @@ In general, I'm very motivated by fields of computer science where math plays a 
 
 #### Technical University of Madrid (2017-2021)
 
-BSc in mathematics and computer science.
+BSc in Mathematics and Computer Science.
 
 #### Lycée Français de Valencia (2005-2017)
 
