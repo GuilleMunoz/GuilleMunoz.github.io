@@ -25,7 +25,7 @@ With performance in mind, the algorithm will be implemented using [cython](https
 
 <figure align="center">
   <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="width:60%"></a>
-  <figcaption>AES flowchart</figcaption>
+  <figcaption>AES flowchart.</figcaption>
 </figure>
 
 ## City Tasks Assigment
@@ -36,7 +36,7 @@ This projects consists on assigning some tasks to some teams during a campaign (
 To solve the problem we've implemented an exact method that uses linear programming techniques (such as branch and bound algorithm) in order to obtain the optimal solution, and, because this method has a hi complexity, we also implement the simulated annealing metaheuristic.
 With performance in mind, algorithms will be implemented using **C** and later extended to **Python** for ease of use.
 
-<figure align="center">
+<figure>
   <a href="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg"><img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" style="width:60%"></a>
   <figcaption>Flowchart of the simulated annealing algorithm.</figcaption>
 </figure>
