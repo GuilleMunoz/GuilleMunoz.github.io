@@ -11,8 +11,8 @@ TDA aims to extract information from noisy, incomplete or complex dataset using 
 The main class, AlphaComplex, is a simple implementation can be used to compute the persistence homology of a set of points.
 
 <figure class="half" style="vertical-align: bottom">
-  <a href="/_pages/examples/TDA/animation.gif"><img src="/_pages/examples/TDA/animation.gif" style="vertical-align: bottom"/></a>
-  <a href="/_pages/examples/TDA/persistent_homology.png"><img src="/_pages/examples/TDA/persistent_homology.png" style="vertical-align: bottom"/></a>
+  <a style="vertical-align: bottom" href="/_pages/examples/TDA/animation.gif"><img src="/_pages/examples/TDA/animation.gif"/></a>
+  <a style="vertical-align: bottom" href="/_pages/examples/TDA/persistent_homology.png"><img src="/_pages/examples/TDA/persistent_homology.png"/></a>
   <figcaption>Persistent homology of a double torus (genus 2).</figcaption>
 </figure>
 
