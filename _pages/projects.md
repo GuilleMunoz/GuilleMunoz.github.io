@@ -23,9 +23,9 @@ The main class, AlphaComplex, is a simple implementation can be used to compute 
 AES algorithm is a symmetric key encryption block cipher capable of handling 128 bits (16 bytes) blocks using keys of size 128, 192 or 256 bits. AES consists of multiple encryption rounds. On each, the cipher performs a series of mathematics transformations. 
 With performance in mind, the algorithm will be implemented using [cython](https://cython.org). 
 
-<figure class="half" align="center">
-  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" width="400"></a>
-  <figcaption>AES flowchart</figcaption>
+<figure align="center">
+  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="width:60%"></a>
+  <figcaption>AES flowchart.</figcaption>
 </figure>
 
 ## City Tasks Assigment
@@ -36,9 +36,9 @@ This projects consists on assigning some tasks to some teams during a campaign (
 To solve the problem we've implemented an exact method that uses linear programming techniques (such as branch and bound algorithm) in order to obtain the optimal solution, and, because this method has a hi complexity, we also implement the simulated annealing metaheuristic.
 With performance in mind, algorithms will be implemented using **C** and later extended to **Python** for ease of use.
 
-<figure class="half" align="center">
-  <a href="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg"><img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" width="400"></a>
-  <figcaption>Flowchart of the simulated annealing algorithm</figcaption>
+<figure align="center">
+  <a href="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg"><img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" style="width:60%"></a>
+  <figcaption>Flowchart of the simulated annealing algorithm.</figcaption>
 </figure>
 
 Aditionaly, because in real life the times and costs of doing each tasks are known with certain uncertainty (assumed to be normal), we implement a Monte Carlo simulation to analyse how the objetives vary. 
@@ -56,9 +56,9 @@ It assigns a random station to a task that violates the precedence relations.
 We also include multiple selection methods (roulette, tournament, rank), mutation operators (random, swap, scramble, inverse), crossover operators (Double Point, Single Point, Uniform). 
 To compare the performance, we define comparations methods.
 
-<figure class="half" align="center">
-   <a href="/_pages/examples/GA/ga.png"><img align="center" src="/_pages/examples/GA/ga.png" width="400"></a>
-  <figcaption>Genetic algorithm flowchart</figcaption>
+<figure align="center">
+   <a href="/_pages/examples/GA/ga.png"><img align="center" src="/_pages/examples/GA/ga.png" style="width:60%"></a>
+  <figcaption>Genetic algorithm flowchart.</figcaption>
 </figure>
 
 ## First steps of a JavaScript compiler
