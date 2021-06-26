@@ -24,8 +24,8 @@ AES algorithm is a symmetric key encryption block cipher capable of handling 128
 With performance in mind, the algorithm will be implemented using [cython](https://cython.org). 
 
 <figure>
-  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="width:60%"></a>
-  <figcaption>AES flowchart (for 128 bits key).</figcaption>
+  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="width:60%" align="center"></a>
+  <figcaption>AES flowchart (for 128 bits key)</figcaption>
 </figure>
 
 ## City Tasks Assigment
@@ -37,7 +37,7 @@ To solve the problem we've implemented an exact method that uses linear programm
 With performance in mind, algorithms will be implemented using **C** and later extended to **Python** for ease of use.
 
 <figure>
-  <a href="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg"><img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" style="width:60%"></a>
+  <a href="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg"><img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" style="width:60%" align="center"></a>
   <figcaption>Flowchart of the simulated annealing algorithm.</figcaption>
 </figure>
 
