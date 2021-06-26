@@ -58,7 +58,7 @@ We also include multiple selection methods (roulette, tournament, rank), mutatio
 To compare the performance, we define comparations methods.
 
 <figure>
-   <a href="/_pages/examples/GA/ga.png"><img src="/_pages/examples/GA/ga.png" style="width:60%"></a>
+   <a href="/_pages/examples/GA/ga.png" align="center"><img src="/_pages/examples/GA/ga.png" style="width:60%"></a>
   <figcaption>Genetic algorithm flowchart.</figcaption>
 </figure>
 
