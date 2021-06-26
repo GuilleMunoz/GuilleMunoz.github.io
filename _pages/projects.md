@@ -77,7 +77,7 @@ This projects focuses on the first 3 phases for a simplified version of JavaScri
 
 A* is a path search algorithm. 
 In this we will use it for finding the shortest path between two stations of a simplified version of the Tokyo subway. 
-A* achieves better performance than Dijstra algorithm using an heuristic to guide the search. 
+A* achieves better performance than Dijkstra algorithm using an heuristic to guide the search. 
 For ease of use we implemented a GUI to execute the A* search. 
 
 <div align="center"> 
