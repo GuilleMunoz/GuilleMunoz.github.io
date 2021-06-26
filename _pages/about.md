@@ -26,6 +26,8 @@ Scientific Baccalaureate
 
 #### Mathematics
 
+I have a strong background in filds like:
+
 - Statistics 
 - Probability
 - Discrete mathematics
