@@ -31,7 +31,7 @@ With performance in mind, the algorithm will be implemented using [cython](https
 
 This projects consists on assigning some tasks to some teams during a campaign (e.g. cleaning and maintenance of a city or packages distribution) minimising the time and cost. 
 To solve the problem we've implemented an exact method that uses linear programming techniques (such as branch and bound algorithm) in order to obtain the optimal solution, and, because this method has a hi complexity, we also implement the simulated annealing metaheuristic.
-With performance in mind, algorithms will be implemented using C and later extended to Python for ease of use.
+With performance in mind, algorithms will be implemented using **C** and later extended to **Python** for ease of use.
 
 <div align="center">
   <img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" width="400"/>
