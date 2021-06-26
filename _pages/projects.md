@@ -13,7 +13,7 @@ The main class, AlphaComplex, is a simple implementation can be used to compute 
 <figure class="half">
   <a href="/_pages/examples/TDA/animation.gif"><img src="/_pages/examples/TDA/animation.gif"></a>
   <a href="/_pages/examples/TDA/persistent_homology.png"><img src="/_pages/examples/TDA/persistent_homology.png"></a>
-  <figcaption>Persistent homology of a double torus (genus 2)</figcaption>
+  <figcaption>Persistent homology of a double torus (genus 2).</figcaption>
 </figure>
 
 ## Advanced Encryption Standard ([AES](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf))
@@ -82,8 +82,9 @@ In this we will use it for finding the shortest path between two stations of a s
 A* achieves better performance than Dijkstra algorithm using an heuristic to guide the search. 
 For ease of use we implemented a GUI to execute the A* search. 
 
-
-<div align="center"> 
-  <img src="/_pages/examples/Tokyo/Interfaz.png" width="300"/> <img src="/_pages/examples/Tokyo/Interfaz2.png" width="300"/>
-  <img src="/_pages/examples/Tokyo/interfaz3.png" width="310"/>
-</div>
+<figure class="third" align="center">
+  <a href="/_pages/examples/Tokyo/GUI_Tokyo1.png"><img src="/_pages/examples/Tokyo/GUI_Tokyo1.png"></a>
+  <a href="/_pages/examples/Tokyo/GUI_Tokyo2.png"><img src="/_pages/examples/Tokyo/GUI_Tokyo2.png"></a>
+  <a href="/_pages/examples/Tokyo/GUI_Tokyo3.png"><img src="/_pages/examples/Tokyo/GUI_Tokyo3.png"></a>
+  <figcaption>GUI of app at different stages.</figcaption>
+</figure>
