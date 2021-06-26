@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Guillermo Muñoz Llopis
-email:
+email: guillemunyoz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my webpage
 github_username: GuilleMunyoz
-minimal_mistakes_skin: air
+minimal_mistakes_skin: default
 
 # Build settings
 markdown: kramdown
@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Guillermo Muñoz Llopis"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Motivated about fields of computer science where maths plays an important role"
   location : "Valencia, ESP"
   links:
     - label: "GitHub"
