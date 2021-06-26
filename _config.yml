@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Guillermo Muñoz Llopis
 email: guillemunyoz@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Guillermo Muñoz's website
+description: Guillermo Muñoz's website
 github_username: GuilleMunoz
 minimal_mistakes_skin: default
 
