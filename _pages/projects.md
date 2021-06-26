@@ -12,8 +12,8 @@ The main class, AlphaComplex, is a simple implementation can be used to compute 
 
 <figure class="half">
   <a href="/_pages/examples/TDA/animation.gif"><img src="/_pages/examples/TDA/animation.gif" valign=bottom></a>
-  <a href="/_pages/examples/TDA/persistent_homology.png"><img src="/_pages/examples/TDA/persistent_homology.png" style="object-position: bottom"></a>
-  <figcaption>Persistent homology of a double torus (genus 2).</figcaption>
+  <a href="/_pages/examples/TDA/persistent_homology.png"><img src="/_pages/examples/TDA/persistent_homology.png" style="bottom:0"></a>
+  <figcaption>Persistent homology of a double torus (genus 2)</figcaption>
 </figure>
 
 ## Advanced Encryption Standard ([AES](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf))
