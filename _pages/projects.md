@@ -23,8 +23,8 @@ The main class, AlphaComplex, is a simple implementation can be used to compute 
 AES algorithm is a symmetric key encryption block cipher capable of handling 128 bits (16 bytes) blocks using keys of size 128, 192 or 256 bits. AES consists of multiple encryption rounds. On each, the cipher performs a series of mathematics transformations. 
 With performance in mind, the algorithm will be implemented using [cython](https://cython.org). 
 
-<figure>
-  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="width:60%" align="center"></a>
+<figure align="center">
+  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="width:60%"></a>
   <figcaption>AES flowchart (for 128 bits key).</figcaption>
 </figure>
 
@@ -36,8 +36,8 @@ This projects consists on assigning some tasks to some teams during a campaign (
 To solve the problem we've implemented an exact method that uses linear programming techniques (such as branch and bound algorithm) in order to obtain the optimal solution, and, because this method has a hi complexity, we also implement the simulated annealing metaheuristic.
 With performance in mind, algorithms will be implemented using **C** and later extended to **Python** for ease of use.
 
-<figure>
-  <a href="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg"><img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" style="width:60%" align="center"></a>
+<figure align="center">
+  <a href="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg"><img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" style="width:60%"></a>
   <figcaption>Flowchart of the simulated annealing algorithm.</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ We also include multiple selection methods (roulette, tournament, rank), mutatio
 To compare the performance, we define comparations methods.
 
 <figure align="center">
-   <a href="/_pages/examples/GA/ga.png"><img src="/_pages/examples/GA/ga.png" style="width:60%" align="center"></a>
+   <a href="/_pages/examples/GA/ga.png"><img src="/_pages/examples/GA/ga.png" style="width:60%"></a>
   <figcaption>Genetic algorithm flowchart.</figcaption>
 </figure>
 
