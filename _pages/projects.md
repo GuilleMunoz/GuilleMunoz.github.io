@@ -52,7 +52,7 @@ A similar simulation can be done to observe how different preferences on the obj
 The ALBP consists of assigning tasks to an ordered sequence of stations such that the precedence relations among the tasks are satisfied, and some performance measure is optimized. 
 There are some algorithms designed for this problem. 
 The genetic algorithm approach is easy to program and can be easily adapted for other problems such as the travelling salesman problem. 
-To find a better solution faster we defined an heuritic mutation operator. 
+To try to find a better solution faster we defined an heuristic mutation operator. 
 It assigns a random station to a task that violates the precedence relations. 
 We also include multiple selection methods (roulette, tournament, rank), mutation operators (random, swap, scramble, inverse), crossover operators (Double Point, Single Point, Uniform). 
 To compare the performance, we define comparations methods.
