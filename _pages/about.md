@@ -34,6 +34,7 @@ I have a strong background in filds like:
 - Applied Mathematics
 - Mathematical Analysis
 - Operations Research
+- Linear Algebra
 - Topology
 
 
