@@ -25,7 +25,7 @@ With performance in mind, the algorithm will be implemented using [cython](https
 
 
 <figure class="align-center" align="center">
-  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="max-width: 520px;"></a>
+  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="max-width: 500px;"></a>
   <figcaption>AES flowchart for 128 bits keys</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ To solve the problem we've implemented an exact method that uses linear programm
 With performance in mind, algorithms will be implemented using **C** and later extended to **Python** for ease of use.
 
 <figure class="align-center" align="center">
-  <a href="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg"><img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" style="width:55%;"></a>
+  <a href="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg"><img src="/_pages/examples/CTA/A-flowchart-of-the-simulated-annealing-algorithm.jpg" style="max-width: 500px;"></a>
   <figcaption>Flowchart of the simulated annealing algorithm.</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ We also include multiple selection methods (roulette, tournament, rank), mutatio
 To compare the performance, we define comparations methods.
 
 <figure class="align-center" align="center">
-   <a href="/_pages/examples/GA/ga.png"><img src="/_pages/examples/GA/ga.png" style="width:55%"></a>
+   <a href="/_pages/examples/GA/ga.png"><img src="/_pages/examples/GA/ga.png" style="max-width: 500px;"></a>
   <figcaption>Genetic algorithm flowchart.</figcaption>
 </figure>
 
