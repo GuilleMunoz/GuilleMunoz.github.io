@@ -25,7 +25,7 @@ With performance in mind, the algorithm will be implemented using [cython](https
 
 
 <figure class="align-center" align="center">
-  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png"></a>
+  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="max-width: 520px;"></a>
   <figcaption>AES flowchart for 128 bits keys</figcaption>
 </figure>
 
