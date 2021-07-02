@@ -10,7 +10,7 @@ My name is Guillermo Muñoz Llopis, from a young age I was interested in the fie
 That's why I enrolled in a BSc in Mathematics and Computer Science by the Technical University of Madrid (UPM) which I just finished with a CGPA of 80%.
 
 My interests lie in optimisation, modelling, cryptography and data science. 
-In general, I'm very motivated by fields of computer science where math plays a crucial role.
+In general, I'm very motivated by fields of computer science where maths play a crucial role.
 
 ## Education
 
