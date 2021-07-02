@@ -29,9 +29,9 @@ Scientific Baccalaureate (Spec. Maths)
 
 I have a strong background in filds like:
 
+- Operations Research
 - Statistics 
 - Probability
-- Operations Research
 - Discrete mathematics
 - Algebra
 
