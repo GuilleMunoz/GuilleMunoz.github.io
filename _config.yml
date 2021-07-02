@@ -53,7 +53,7 @@ plugins:
 author:
   name   : "Guillermo Muñoz Llopis"
   avatar : "/assets/images/bio.jpeg"
-  bio    : "Motivated about fields of computer science where maths plays an important role"
+  bio    : "Motivated about fields of computer science where maths play an important role"
   location : "Valencia, ESP"
   links:
     - label: "GitHub"
