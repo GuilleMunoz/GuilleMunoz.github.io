@@ -33,10 +33,7 @@ I have a strong background in filds like:
 - Probability
 - Operations Research
 - Discrete mathematics
-- Applied Mathematics
-- Analysis
 - Algebra
-- Topology
 
 
 #### Programming
