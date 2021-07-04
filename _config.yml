@@ -67,7 +67,7 @@ author:
       url: "mailto:guillemunyoz@gmail.com"
     - label: "Curriculum"
       icon: "far fa-fw fa-file-pdf"
-      url: "https://github.com/GuilleMunoz"
+      url: "/resume.pdf"
 
 footer:
   links:
