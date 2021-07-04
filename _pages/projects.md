@@ -16,19 +16,6 @@ The main class, AlphaComplex, is a simple implementation can be used to compute 
   <figcaption>Persistent homology of a double torus (genus 2).</figcaption>
 </figure>
 
-## Advanced Encryption Standard ([AES](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf))
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GuilleMunoz/AES)
-
-AES algorithm is a symmetric key encryption block cipher capable of handling 128 bits (16 bytes) blocks using keys of size 128, 192 or 256 bits. AES consists of multiple encryption rounds. On each, the cipher performs a series of mathematics transformations. 
-With performance in mind, the algorithm will be implemented using [cython](https://cython.org). 
-
-
-<figure class="align-center" align="center">
-  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="max-width: 500px;"></a>
-  <figcaption>AES flowchart for 128 bits keys.</figcaption>
-</figure>
-
 ## City Tasks Assigment
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GuilleMunoz/city_tasks_assignment)
@@ -44,6 +31,19 @@ With performance in mind, algorithms will be implemented using **C** and later e
 
 Aditionaly, because in real life the times and costs of doing each tasks are known with certain uncertainty (assumed to be normal), we implement a Monte Carlo simulation to analyse how the objetives vary. 
 A similar simulation can be done to observe how different preferences on the objectives affect to the overall time and cost.
+
+## Advanced Encryption Standard ([AES](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf))
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GuilleMunoz/AES)
+
+AES algorithm is a symmetric key encryption block cipher capable of handling 128 bits (16 bytes) blocks using keys of size 128, 192 or 256 bits. AES consists of multiple encryption rounds. On each, the cipher performs a series of mathematics transformations. 
+With performance in mind, the algorithm will be implemented using [cython](https://cython.org). 
+
+
+<figure class="align-center" align="center">
+  <a href="/_pages/examples/AES/diagram.png"><img src="/_pages/examples/AES/diagram.png" style="max-width: 500px;"></a>
+  <figcaption>AES flowchart for 128 bits keys.</figcaption>
+</figure>
 
 ## Assembly Line Balancing Problem (ALBP)
 
