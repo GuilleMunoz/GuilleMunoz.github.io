@@ -3,19 +3,6 @@ permalink: /projects/
 title: "Projects"
 ---
 
-## Topological Data Analysis ([TDA](https://en.wikipedia.org/wiki/Topological_data_analysis)) 
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GuilleMunoz/computational_topology)
-
-TDA aims to extract information from noisy, incomplete or complex dataset using techniques from topology like persistent homology. This projects provide multiple data structures and algorithms used in TDA. 
-The main class, AlphaComplex, is a simple implementation can be used to compute the persistence homology of a set of points.
-
-<figure class="half" align="center">
-  <a href="/_pages/examples/TDA/animation.gif"><img src="/_pages/examples/TDA/animation.gif"></a>
-  <a href="/_pages/examples/TDA/persistent_homology.png"><img src="/_pages/examples/TDA/persistent_homology.png"></a>
-  <figcaption>Persistent homology of a double torus (genus 2).</figcaption>
-</figure>
-
 ## City Tasks Assigment
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GuilleMunoz/city_tasks_assignment)
@@ -31,6 +18,19 @@ With performance in mind, algorithms will be implemented using **C** and later e
 
 Aditionaly, because in real life the times and costs of doing each tasks are known with certain uncertainty (assumed to be normal), we implement a Monte Carlo simulation to analyse how the objetives vary. 
 A similar simulation can be done to observe how different preferences on the objectives affect to the overall time and cost.
+
+## Topological Data Analysis ([TDA](https://en.wikipedia.org/wiki/Topological_data_analysis)) 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GuilleMunoz/computational_topology)
+
+TDA aims to extract information from noisy, incomplete or complex dataset using techniques from topology like persistent homology. This projects provide multiple data structures and algorithms used in TDA. 
+The main class, AlphaComplex, is a simple implementation can be used to compute the persistence homology of a set of points.
+
+<figure class="half" align="center">
+  <a href="/_pages/examples/TDA/animation.gif"><img src="/_pages/examples/TDA/animation.gif"></a>
+  <a href="/_pages/examples/TDA/persistent_homology.png"><img src="/_pages/examples/TDA/persistent_homology.png"></a>
+  <figcaption>Persistent homology of a double torus (genus 2).</figcaption>
+</figure>
 
 ## Advanced Encryption Standard ([AES](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf))
 
