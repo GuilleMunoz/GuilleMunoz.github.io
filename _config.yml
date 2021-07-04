@@ -67,7 +67,7 @@ author:
       url: "mailto:guillemunyoz@gmail.com"
     - label: "Curriculum"
       icon: "far fa-fw fa-file-pdf"
-      url: "/resume.pdf"
+      url: "/_pages/resume.pdf"
 
 footer:
   links:
