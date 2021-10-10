@@ -62,6 +62,16 @@ To compare the performance, we define comparations methods.
   <figcaption>Genetic algorithm flowchart.</figcaption>
 </figure>
 
+## Network
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GuilleMunoz/network)
+
+A network (also known as graph) is a mathematical structure made up by a set of points or nodes and a set of edges (links between two nodes). 
+Euler is regarded as the father of graph theory since he published the first (known) [paper](https://en.wikipedia.org/wiki/Seven_Bridges_of_Königsberg) on this field.
+Since Euler graph theory has been used to solve a whole host of problems, such as route planning or even in [fighting an outbreak of a disease](https://blogs.cornell.edu/info2040/2014/09/15/graph-theory-applied-to-disease-transmission/).
+
+This project provides a simple implementation of a graph data structure and multiple algorithms in the blazingly fast C++.
+
 ## First steps of a JavaScript compiler
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GuilleMunoz/javascript_pdl)
@@ -75,7 +85,7 @@ The compilation process is divided into 6 phases:
 5. Optimization
 6. Code generation
 
-This projects focuses on the first 3 phases for a simplified version of JavaScript.
+This project focuses on the first 3 phases for a simplified version of JavaScript.
 
 ## Tokyo Subway
 
